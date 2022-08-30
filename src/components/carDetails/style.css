@@ -1,0 +1,19 @@
+.conteiner{
+    float:left;
+    width: 550px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
+
+.conteiner h2{
+    text-align: center;
+}
+.conteiner .body{
+    margin:10px;
+}
+.conteiner img {
+    width: 300px;
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
